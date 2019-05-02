@@ -1,0 +1,6 @@
+/home/AR/Projects/Cesar/Cesar/bin/Debug/Cesar.exe
+/home/AR/Projects/Cesar/Cesar/bin/Debug/Cesar.pdb
+/home/AR/Projects/Cesar/Cesar/obj/x86/Debug/Cesar.csprojAssemblyReference.cache
+/home/AR/Projects/Cesar/Cesar/obj/x86/Debug/Cesar.csproj.CoreCompileInputs.cache
+/home/AR/Projects/Cesar/Cesar/obj/x86/Debug/Cesar.exe
+/home/AR/Projects/Cesar/Cesar/obj/x86/Debug/Cesar.pdb

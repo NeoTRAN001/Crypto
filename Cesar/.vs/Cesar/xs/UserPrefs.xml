@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B3F9D21B-0AE7-4551-9773-EA97739153FC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cesar/Program.cs">
+    <Files>
+      <File FileName="Cesar/Program.cs" Line="38" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cesar" expanded="True">
+            <Node name="Cesar" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Cesar PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
