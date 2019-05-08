@@ -1,14 +1,16 @@
-﻿<Properties StartupConfiguration="{B3F9D21B-0AE7-4551-9773-EA97739153FC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Cesar/Program.cs">
+﻿<Properties StartupConfiguration="{56B871CD-EA4C-41C2-B8F2-9A9B2D238ECE}|Default">
+  <MonoDevelop.Ide.ItemProperties.NumericalBase PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NumericalBase/MainWindow.cs">
     <Files>
-      <File FileName="Cesar/Program.cs" Line="38" Column="64" />
+      <File FileName="NumericalBase/Program.cs" Line="1" Column="1" />
+      <File FileName="NumericalBase/MainWindow.cs" Line="28" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Cesar" expanded="True">
-            <Node name="Cesar" expanded="True">
-              <Node name="Program.cs" selected="True" />
+          <Node name="NumericalBase" expanded="True">
+            <Node name="NumericalBase" expanded="True">
+              <Node name="MainWindow.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -19,7 +21,6 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Cesar PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
