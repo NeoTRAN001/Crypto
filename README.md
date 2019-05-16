@@ -4,6 +4,13 @@
 +Cifrado por translación
 +Cifrado por llave publica y privada
 
++Cifrado Cesar
++Cifrado atbash
++Cifrado aaaa
++Cifrado NumericalBase
++Cifrado NumericalBase2
++Cifrado Polybios
+
 ![](https://3.bp.blogspot.com/--QfUlX7dU-4/XMqWT-K0vAI/AAAAAAAACcQ/zvFyTdtdAuE1BAQR4lzv_voOI2r-XvDSQCPcBGAYYCw/s1600/Screenshot.png)
 
 ![](https://1.bp.blogspot.com/-tQw0jB1IvSM/XFChIhPobdI/AAAAAAAACVs/dyIjV7sSz-kUbwKQMnSHDrmvlakg4_qbQCLcBGAs/s1600/Screenshot%2Bfrom%2B2019-01-29%2B12-53-05.png)
